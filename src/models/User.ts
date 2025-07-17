@@ -39,8 +39,8 @@ const UserSchema: Schema<User> = new Schema({
     unique: true,
     required: [true, "Email is required"],
     match: [
-      /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$/,
-      "Please enter a valid username",
+      /^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\.[a-zA-Z]{2,}$/,
+      "Please enter a valid email",
     ],
   },
   password: {
@@ -70,4 +70,4 @@ const UserModel =
   (mongoose.models.User as mongoose.Model<User>) ||
   mongoose.model<User>("User", UserSchema);
 
-  export default UserModel;
+export default UserModel;
