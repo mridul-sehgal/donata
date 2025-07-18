@@ -1,0 +1,59 @@
+[33mcommit 3c5f6d0d6a327321fa59e64dcec896b32f367510[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Mridul_Sehgal <mridul.sehgal1114@gmail.com>
+Date:   Fri Jul 18 01:23:18 2025 +0530
+
+    username unique and verify code api completed
+
+[33mcommit 9690e3072a7483f455e3863af79b31e7e7eda82b[m
+Author: Mridul_Sehgal <mridul.sehgal1114@gmail.com>
+Date:   Thu Jul 17 23:47:57 2025 +0530
+
+    minute bug fix in UserSchema
+
+[33mcommit 61eb6f66af88cb00f4a3b5b3948563e5b4369135[m
+Author: Mridul_Sehgal <mridul.sehgal1114@gmail.com>
+Date:   Thu Jul 17 21:39:33 2025 +0530
+
+    fixed minor issues : 1) api folder moved inside app folder previously was outside 2) minor bug inside route.ts for [...nextauth], 3) added a sign-in page and authprovider context for some testing
+
+[33mcommit 0a506e8dd92bd5483e17cc79fb175e4eac84e5ca[m
+Author: Mridul_Sehgal <mridul.sehgal1114@gmail.com>
+Date:   Thu Jul 17 20:55:40 2025 +0530
+
+    did the next auth portion, options.ts, custom types,middleware, bsically sign-in portion
+
+[33mcommit 995544dc84e359874cd4a01f02856b023b245828[m
+Author: Mridul_Sehgal <mridul.sehgal1114@gmail.com>
+Date:   Thu Jul 17 17:25:33 2025 +0530
+
+    sign up api completed
+
+[33mcommit 573bb2dbbef0310dcecb5bff8747e6276da3bda6[m
+Author: Mridul_Sehgal <mridul.sehgal1114@gmail.com>
+Date:   Thu Jul 17 17:01:22 2025 +0530
+
+    resend setup completed and db connection established
+
+[33mcommit 8c5b2871960876771603422ec1e108c8f9909e71[m
+Author: Mridul_Sehgal <mridul.sehgal1114@gmail.com>
+Date:   Thu Jul 17 16:14:25 2025 +0530
+
+    zod schemas completed
+
+[33mcommit cff7e23886c77b8eaab955f251c7bbd948fd7c21[m
+Author: Mridul_Sehgal <mridul.sehgal1114@gmail.com>
+Date:   Wed Jul 16 16:43:04 2025 +0530
+
+    User Model is prepared in this commit
+
+[33mcommit d4ba4a82cf87d340e0c73423609244be813418ef[m
+Author: Mridul_Sehgal <mridul.sehgal1114@gmail.com>
+Date:   Wed Jul 16 15:38:29 2025 +0530
+
+    iniial setup of the project is done
+
+[33mcommit 765a64c9bfe151d4408d9ae7e6093ada147816b6[m
+Author: Mridul Sehgal <105665765+mridul-sehgal@users.noreply.github.com>
+Date:   Wed Jul 16 15:33:03 2025 +0530
+
+    Initial commit
